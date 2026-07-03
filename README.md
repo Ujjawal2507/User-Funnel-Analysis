@@ -1,8 +1,12 @@
 # User Journey Funnel Analysis & Marketing Analytics Platform
 
+**🔗 Live Demo: [user-funnel-analysis.onrender.com](https://user-funnel-analysis.onrender.com)**
+
 This platform gives you the full picture of a customer's journey — from their first ad impression all the way to purchase — no matter which digital channel they came through. Everything lands in a clean, interactive dashboard with straight-to-the-point, AI-powered insights.
 
 **The real issue:** companies pour money into ads on Google, Meta, LinkedIn, YouTube, email — you name it — but ask basic questions like *"Where do most people drop off?"*, *"Which campaigns are actually bringing in money?"*, or *"How should we split next month's budget?"* and the answers usually aren't clear. This platform changes that, with numbers you can actually trust.
+
+![Executive Dashboard](assets/dashboard-preview.png)
 
 ## What you get
 
