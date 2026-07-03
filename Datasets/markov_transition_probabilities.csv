@@ -1,0 +1,13 @@
+From_State,To_State,Count,Probability
+START,impression,110169,1.0
+add_to_cart,NULL,716,0.1996
+add_to_cart,purchase,2871,0.8004
+click,NULL,1320,0.1055
+click,landing_page,11196,0.8945
+impression,NULL,97653,0.8864
+impression,click,12516,0.1136
+landing_page,NULL,2294,0.2049
+landing_page,product_view,8902,0.7951
+product_view,NULL,5315,0.5971
+product_view,add_to_cart,3587,0.4029
+purchase,CONVERSION,2871,1.0

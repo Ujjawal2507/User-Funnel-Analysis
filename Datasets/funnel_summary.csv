@@ -1,0 +1,7 @@
+Stage,Users,Sessions,Previous_Stage_Users,Stage_Conversion(%),Overall_Conversion(%),Dropoff_Users,Dropoff(%),Cumulative_Dropoff,Funnel_Efficiency
+impression,50000,110169,50000.0,100.0,100.0,0.0,0.0,0,100.0
+click,11291,12516,50000.0,22.58,22.58,38709.0,77.42,38709,22.58
+landing_page,10209,11196,11291.0,90.42,20.42,1082.0,9.58,39791,20.42
+product_view,8293,8902,10209.0,81.23,16.59,1916.0,18.77,41707,16.59
+add_to_cart,3484,3587,8293.0,42.01,6.97,4809.0,57.99,46516,6.97
+purchase,2804,2871,3484.0,80.48,5.61,680.0,19.52,47196,5.61

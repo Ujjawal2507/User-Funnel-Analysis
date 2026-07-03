@@ -1,0 +1,4 @@
+user_lifecycle,Users,Sessions,Revenue,Purchases,add_to_cart,click,impression,landing_page,product_view,purchase,CTR,Landing_Rate,Product_View_Rate,Cart_Rate,Purchase_Rate,Overall_Conversion,Average_Order_Value,Revenue_Per_User,Revenue_Per_Session,Cart_Abandonment
+Loyal,3753,8313,5680675.67,266,310,1065,8313,970,775,266,12.81,91.08,79.9,40.0,85.81,3.2,21355.92,1513.64,683.35,14.19
+New,35123,77308,36831340.48,1879,2424,8430,77308,7543,6014,1879,10.9,89.48,79.73,40.31,77.52,2.43,19601.56,1048.64,476.42,22.48
+Returning,11124,24548,15058242.79,726,853,3021,24548,2683,2113,726,12.31,88.81,78.76,40.37,85.11,2.96,20741.38,1353.67,613.42,14.89

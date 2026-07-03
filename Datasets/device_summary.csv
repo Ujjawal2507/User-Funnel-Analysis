@@ -1,0 +1,4 @@
+device_type,Users,Sessions,Revenue,Purchases,add_to_cart,click,impression,landing_page,product_view,purchase,CTR,Landing_Rate,Product_View_Rate,Cart_Rate,Purchase_Rate,Overall_Conversion,Average_Order_Value,Revenue_Per_User,Revenue_Per_Session,Cart_Abandonment
+Desktop,12530,27588,16942281.23,851,1011,3564,27588,3195,2514,851,12.92,89.65,78.69,40.21,84.17,3.08,19908.67,1352.14,614.12,15.83
+Mobile,32472,71656,36704914.89,1793,2254,7889,71656,7061,5649,1793,11.01,89.5,80.0,39.9,79.55,2.5,20471.23,1130.36,512.24,20.45
+Tablet,4998,10925,3923062.82,227,322,1063,10925,940,739,227,9.73,88.43,78.62,43.57,70.5,2.08,17282.22,784.93,359.09,29.5
